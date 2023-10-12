@@ -1,7 +1,7 @@
-# opensource_1
-## 박채은....
-### opensource project repository
-_repository_
-**12hours left**
+# 오픈소스 기초설계
+## 프로젝트 제안서
+** 20233093 박채은
+
+
 
 
