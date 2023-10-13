@@ -11,6 +11,8 @@
 * YOLOv를 사용하여 영상 기반 차간거리 유지 개발 프로젝트와 OpenCV를 이용해 차선을 감지하는 프로젝트의 오픈소스를 이용해 충돌을 감지 및 예상하고 지속적으로 차선을 침범하는 이상차량을 감지하여 경고 메시지를 사용자에게 보내려한다.
 
 프로젝트 설계
+![시스템 개요](https://github.com/Chaeeun4/opensource_1/assets/127810051/b3464918-46fc-4180-b4c1-6abf6ba91725)
 
+![시스템 개요 수정](https://github.com/Chaeeun4/opensource_1/assets/127810051/e983824e-80ee-44eb-a816-8a63e5dda228)
 
 
