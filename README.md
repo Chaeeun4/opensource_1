@@ -23,10 +23,11 @@
 
 **참고 자료**
 
-[1] YOLOv를 사용하여 영상 기반 차간거리 유지 개발 프로젝트: https://github.com/icns-distributed-cloud/adaptive-cruise-control
+[1] 자율 주행차의 영상 기반 차간거리 유지 개발: https://github.com/icns-distributed-cloud/adaptive-cruise-control
 
 [2] [ OpenCV ] 도로 차선 인식 프로그램: https://codingwell.tistory.com/m/60
-OpecCV를 통해 차선 인식하기 — 두리안의 코딩 나무 (tistory.com)
+
+[3] OpecCV를 통해 차선 인식하기 — 두리안의 코딩 나무 (tistory.com)
 
 
 
